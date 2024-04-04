@@ -1,0 +1,20 @@
+{
+  "name": "basic-javascript",
+  "version": "1.0.0",
+  "description": "japackscript",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "work1": "npx ts-node workshop1.ts",
+    "work2": "npx ts-node workshop2.ts",
+    "work3": "npx ts-node workshop3.ts",
+    "start": "node ./index.js",
+    "ty":"npx ts-node index.ts"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "ts-node": "^10.9.2",
+    "typescript": "^5.4.3"
+  }
+}
